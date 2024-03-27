@@ -6,10 +6,16 @@
 
 
 - 🔭 I’m currently working on **optimization in modern transportation mode**
+
 - 🌱 I’m currently learning **LLM, Deep Learning**
+
 - 👯 I’m looking to collaborate on **any project related with LLM and optimization**
+
 - 🤔 I’m looking for help with **Generative AI and deep learning**
+
 - 💬 Ask me about **optimization algorithm and their use case**
+
 - 📫 How to reach me: **ismail.cse15@gmail.com**
+
 - ⚡ Fun fact: **traveling, waking, reading and sleeping**
--->
+

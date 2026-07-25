@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 I am Md. ISMAIL </h1>
-<h3 align="center">A M.Sc. student From BUET, Dhaka, Bangladesh.</h3>
+<h3 align="center">M.Sc. in CSE BUET, B.Sc. in CSE RUET, Bangladesh.</h3>
 <h3 align="center"> <a href="https://cse.seu.edu.bd/employee/profile/MDAzNTQ3", target="_blank">Lecturer, CSE, SEU, Dhaka, Bangladesh.</a> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail-cse-15&label=Profile%20views&color=0e75b6&style=flat" alt="ismail" /> </p>
 

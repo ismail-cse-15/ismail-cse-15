@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I am Md. ISMAIL </h1>
 <h3 align="center">A M.Sc. student From BUET, Dhaka, Bangladesh.</h3>
-<h3 align="center"> <a href="https://uits.edu.bd/faculty-members-of-cse/", target="_blank">Lecturer, CSE, UITS, Dhaka, Bangladesh.</a> </h3>
+<h3 align="center"> <a href="https://cse.seu.edu.bd/employee/profile/MDAzNTQ3", target="_blank">Lecturer, CSE, SEU, Dhaka, Bangladesh.</a> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail-cse-15&label=Profile%20views&color=0e75b6&style=flat" alt="ismail" /> </p>
 
 
